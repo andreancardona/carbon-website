@@ -26,7 +26,12 @@
 
 .component-index-sort {
   background-color: $white-0;
-  height: $spacing-08;
+  height: $spacing-09;
+}
+
+.component-index-sort  .bx--list-box__field {
+  background-color: $white-0;
+  height: $spacing-09;
 }
 
 //----------------------------------------------------------------------------
